@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Environnment
   - PaintCollider
+  - Brush
+  - EnemyBig
+  - EnemySmall
   layers:
   - Default
   - TransparentFX
